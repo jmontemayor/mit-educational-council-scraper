@@ -1,0 +1,10 @@
+# Everything needed to test the app in addition to the prod requirements
+-r prod.txt
+
+nose==1.3.4
+nose-timer==0.4.3
+nose-ignore-docstring==0.2
+coverage==3.7.1  # code coverage plug-in for nose
+flake8==2.4.1
+flake8-docstrings==0.2.1.post1
+webtest

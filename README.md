@@ -1,4 +1,4 @@
-# MIT Educational Council Scraper
+# 3 Corner: an MIT Educational Council Scraper
 Gets data from MIT EC website so that an Regional Coordinator can run reports
 ## Installation
 TODO: Describe the installation process
